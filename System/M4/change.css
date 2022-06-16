@@ -1,0 +1,25 @@
+h1 {
+    padding: 10px;
+    border: 5px solid rgb(193, 135, 98);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body {
+    background-image: url("image/FK.png"), url("image/FK.png");
+    background-repeat: repeat-y;
+    background-position: right, left;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-size: 270px 200px;
+}
+
+.center {
+    width: 500px;
+    margin: 0 auto;
+    padding: 50px;
+    background-color: rgb(214, 221, 222)
+}
+
+img {
+    width: 600px;
+    height: 100px;
+}
